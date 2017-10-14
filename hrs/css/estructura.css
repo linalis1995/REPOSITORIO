@@ -1,0 +1,20 @@
+@charset "utf-8";
+#contenedor
+{
+	width:500 px;
+	margin:auto;
+	margin-top:20px;
+	margin-bottom:20px;}
+
+	#contenido{
+		width:730px;
+		height:auto;
+		float:right;
+		}
+		aside{
+			
+			margin-top:10 px;
+		
+		margin-left:auto;
+			float:center;}/* CSS Document */
+
